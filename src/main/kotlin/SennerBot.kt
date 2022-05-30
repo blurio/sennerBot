@@ -8,7 +8,7 @@ fun main() {
 
 	val bot = bot {
 
-		token = "5389675577:AAHwRWKVyk0_Id5Fm15R1yUJg_y40Sv4N4o"
+		token = "TOKEN"
 
 		dispatch {
 
